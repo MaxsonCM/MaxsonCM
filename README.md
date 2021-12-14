@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+    <a href="https://github.com/MaxsonCM?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsonCM&layout=compact" width="400" height="200"/>
+    </a>
+    <a href="https://github.com/MaxsonCM?tab=repositories">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaxsonCM&,issues&show_icons=true" width="400" height="200"/>
+    </a>
+</div>
